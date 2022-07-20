@@ -1,0 +1,15 @@
+@import '~bootstrap/dist/css/bootstrap.min.css';
+
+@font-face {
+    font-family: CeraPro;
+    src: url("assets/fonts/CeraProLight.otf") format("opentype");
+}
+
+@font-face {
+    font-family: CeraProBold;
+    src: url("assets/fonts/CeraProBlack.otf") format("opentype");
+}
+
+body {
+    font-family: 'CeraPro', sans-serif !important;
+}
